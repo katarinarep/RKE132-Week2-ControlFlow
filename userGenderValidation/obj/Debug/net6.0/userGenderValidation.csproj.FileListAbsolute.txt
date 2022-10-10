@@ -1,0 +1,15 @@
+C:\Users\katar\source\repos\Week2\userGenderValidation\bin\Debug\net6.0\userGenderValidation.exe
+C:\Users\katar\source\repos\Week2\userGenderValidation\bin\Debug\net6.0\userGenderValidation.deps.json
+C:\Users\katar\source\repos\Week2\userGenderValidation\bin\Debug\net6.0\userGenderValidation.runtimeconfig.json
+C:\Users\katar\source\repos\Week2\userGenderValidation\bin\Debug\net6.0\userGenderValidation.dll
+C:\Users\katar\source\repos\Week2\userGenderValidation\bin\Debug\net6.0\userGenderValidation.pdb
+C:\Users\katar\source\repos\Week2\userGenderValidation\obj\Debug\net6.0\userGenderValidation.csproj.AssemblyReference.cache
+C:\Users\katar\source\repos\Week2\userGenderValidation\obj\Debug\net6.0\userGenderValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katar\source\repos\Week2\userGenderValidation\obj\Debug\net6.0\userGenderValidation.AssemblyInfoInputs.cache
+C:\Users\katar\source\repos\Week2\userGenderValidation\obj\Debug\net6.0\userGenderValidation.AssemblyInfo.cs
+C:\Users\katar\source\repos\Week2\userGenderValidation\obj\Debug\net6.0\userGenderValidation.csproj.CoreCompileInputs.cache
+C:\Users\katar\source\repos\Week2\userGenderValidation\obj\Debug\net6.0\userGenderValidation.dll
+C:\Users\katar\source\repos\Week2\userGenderValidation\obj\Debug\net6.0\refint\userGenderValidation.dll
+C:\Users\katar\source\repos\Week2\userGenderValidation\obj\Debug\net6.0\userGenderValidation.pdb
+C:\Users\katar\source\repos\Week2\userGenderValidation\obj\Debug\net6.0\userGenderValidation.genruntimeconfig.cache
+C:\Users\katar\source\repos\Week2\userGenderValidation\obj\Debug\net6.0\ref\userGenderValidation.dll
